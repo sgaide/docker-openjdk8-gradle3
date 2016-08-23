@@ -1,4 +1,4 @@
-#docker.io docker-openjdk8-gradle3
+#docker.io sgaide/docker-openjdk8-gradle3
 
 FROM alpine:3.4
 
